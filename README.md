@@ -1,5 +1,8 @@
-# xfg-frame-archetype - DDD 脚手架
+# 每日进度：
+## 1.4完成：
+营销服务 第1节：抽奖策略领域和库表设计
+营销服务 第2节：基础层持久化数据
 
-
-md5 scaffold-lite-1.0.pom > scaffold-lite-1.0.pom.md5
-sha1sum scaffold-lite-1.0.pom > scaffold-lite-1.0.pom.sha1
+## 1.5完成：
+营销服务 第3节：策略概率装配处理
+营销服务 第4节：策略权重概率装配
